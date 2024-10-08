@@ -15,6 +15,7 @@ Find my original submission [here](https://github.com/jamessavery/james-code-cha
 
 ## Running test suites:
 Snapshot tests is achieved using [Paparazzi](https://github.com/cashapp/paparazzi).
+UI tests happen through a mixture of the Compose UI testing framework & espresso 
 
 Run all unit tests (including snapshot tests) with:
 > ./gradlew runAllTests
