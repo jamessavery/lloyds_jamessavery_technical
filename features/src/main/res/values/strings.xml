@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Procedures App</string>
+
+    <string name="favourites_empty_text">Your favourites is currently empty</string>
+
+    <string name="user_offline">Unable to establish connection. Using offline data</string>
+</resources>
